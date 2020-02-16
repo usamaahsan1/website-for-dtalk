@@ -96,7 +96,7 @@
                                                 <a class="active" href="index.html">home</a>
                                             </li>
                                             <li>
-                                                <a href="#">Proposal</i>
+                                                <a href="https://drive.google.com/open?id=1WSKi6xLQWSxki7EhhonmR67TnWmz4DDQ">Proposal</i>
                                                 </a>
                                             </li>
                                             <li>
