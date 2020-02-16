@@ -103,7 +103,7 @@
                                                 <a href="https://drive.google.com/open?id=1tjZya6R6rFF4aDE3R_iGTN7yd5sVHZBk">Implementation Plan</a>
                                             </li>
                                             <li>
-                                                <a href="study.html">Documentation</a>
+                                                <a href="https://drive.google.com/open?id=1mVYBn_nHwNBZ2sqfuWnlks3ukiFEYHk6">Documentation</a>
                                             </li>
 
                                         </ul>
