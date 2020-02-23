@@ -100,7 +100,7 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="https://drive.google.com/open?id=1tjZya6R6rFF4aDE3R_iGTN7yd5sVHZBk">Implementation Plan</a>
+                                                <a href="https://drive.google.com/file/d/1Z8W6etQTT3fXDdbt24E6WkKImb6jzHq9/view?usp=sharing">Implementation Plan</a>
                                             </li>
                                             <li>
                                                 <a href="https://drive.google.com/open?id=1mVYBn_nHwNBZ2sqfuWnlks3ukiFEYHk6">Documentation</a>
